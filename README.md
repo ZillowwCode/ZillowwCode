@@ -10,9 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 19 mins
 
-No activity tracked
+PHP        1 hr 9 mins     █████████████████████▓░░░   86.68 %
+Twig       9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
