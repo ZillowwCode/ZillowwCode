@@ -28,7 +28,18 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zillowwcode" alt="zillowwcode" /></a> </p>
 <p>
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+From: 12 February 2024 - To: 19 February 2024
+
+Total Time: 1 hr 19 mins
+
+PHP        1 hr 9 mins     █████████████████████▓░░░   86.68 %
+Twig       9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+```
+
+<!--END_SECTION:waka-->
 </p>
 
 <h3 align="left">Support:</h3>
