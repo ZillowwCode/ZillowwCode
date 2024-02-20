@@ -20,3 +20,4 @@ jobs:
           SHOW_TITLE: true
           LANG_COUNT: 10
           IGNORED_LANGUAGES: YAML JSON
+          STOP_AT_OTHER: true
