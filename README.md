@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)](https://raphaelvieira.ch)
+![MasterHead](./assets/header.png)
 <h1 align="center">Hi 👋, I'm Zilloww</h1>
 <h3 align="center">A Fullstack web developer from Switzerland.</h3>
 
