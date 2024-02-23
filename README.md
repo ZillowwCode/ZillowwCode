@@ -30,15 +30,15 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 4 hrs 37 mins
+Total Time: 9 hrs 28 mins
 
-PHP        2 hrs 26 mins   █████████████░░░░░░░░░░░░   52.66 %
-Dart       1 hr 44 mins    █████████▒░░░░░░░░░░░░░░░   37.61 %
-Markdown   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-Twig       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+PHP          3 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   37.34 %
+Dart         1 hr 44 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
+Twig         1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+SCSS         1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+Other        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 
 <!--END_SECTION:waka-->
