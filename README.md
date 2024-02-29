@@ -30,14 +30,15 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2024 - To: 27 February 2024
+From: 21 February 2024 - To: 28 February 2024
 
-Total Time: 13 hrs 4 mins
+Total Time: 15 hrs 10 mins
 
-PHP          5 hrs 46 mins   ██████████░░░░░░░░░░░░░░░   40.47 %
-Twig         2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-SCSS         2 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-Other        1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+PHP          5 hrs 17 mins   ████████░░░░░░░░░░░░░░░░░   31.76 %
+Twig         3 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+SCSS         2 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Bash         1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Other        1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
 ```
 
 <!--END_SECTION:waka-->
