@@ -30,13 +30,12 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2024 - To: 05 March 2024
+From: 28 February 2024 - To: 06 March 2024
 
-Total Time: 8 hrs 59 mins
+Total Time: 6 hrs 52 mins
 
-SCSS         2 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   23.95 %
-Twig         1 hr 38 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-Other        1 hr 27 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+SCSS         3 hrs 15 mins   ██████████░░░░░░░░░░░░░░░   39.77 %
+Other        1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
 ```
 
 <!--END_SECTION:waka-->
