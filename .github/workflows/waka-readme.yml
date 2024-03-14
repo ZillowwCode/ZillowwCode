@@ -17,7 +17,5 @@ jobs:
           SECTION_NAME: waka
           REPOSITORY: ZillowwCode/ZillowwCode
           SHOW_TOTAL: true
-          SHOW_TITLE: true
-          LANG_COUNT: 10
           IGNORED_LANGUAGES: YAML JSON
           STOP_AT_OTHER: true
