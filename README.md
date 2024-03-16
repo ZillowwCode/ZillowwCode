@@ -30,9 +30,9 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 25 mins
+Total Time: 8 hrs 35 mins
 
-Other           6 hrs 48 mins   █████████████░░░░░░░░░░░░   51.44 %
+Other           7 hrs 32 mins   ███████████▓░░░░░░░░░░░░░   46.73 %
 ```
 
 <!--END_SECTION:waka-->
