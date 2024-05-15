@@ -30,9 +30,9 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 mins
+Total Time: 0 secs
 
-Other   24 mins         ██████████▓░░░░░░░░░░░░░░   42.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
