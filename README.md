@@ -30,9 +30,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 mins
+Total Time: 1 hr 54 mins
 
-Python   31 mins         █████████████████████████   100.00 %
+TeX        45 mins         ██████████░░░░░░░░░░░░░░░   39.89 %
+Markdown   37 mins         ████████░░░░░░░░░░░░░░░░░   32.52 %
+Python     31 mins         ███████░░░░░░░░░░░░░░░░░░   27.58 %
 ```
 
 <!--END_SECTION:waka-->
