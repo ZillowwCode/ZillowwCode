@@ -30,13 +30,13 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 59 mins
+Total Time: 9 hrs 4 mins
 
-SCSS         2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.23 %
-Twig         1 hr 46 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
-Vue.js       1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-PHP          1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-TypeScript   48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+SCSS         2 hrs 5 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Twig         1 hr 35 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
+Vue.js       1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+PHP          1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
+Python       48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 ```
 
 <!--END_SECTION:waka-->
