@@ -30,13 +30,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 16 mins
+Total Time: 5 hrs 48 mins
 
-PHP          1 hr 26 mins    ███████▓░░░░░░░░░░░░░░░░░   30.71 %
-JSON         58 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-YAML         37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-Bash         31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Other        23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+PHP          1 hr 29 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+Other        1 hr 17 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
 ```
 
 <!--END_SECTION:waka-->
