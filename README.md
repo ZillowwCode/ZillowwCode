@@ -30,10 +30,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 40 mins
+Total Time: 5 hrs 41 mins
 
-SCSS         1 hr 59 mins    ████████░░░░░░░░░░░░░░░░░   31.79 %
-Other        1 hr 33 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
+SCSS         2 hrs 48 mins   █████████▓░░░░░░░░░░░░░░░   38.62 %
+Other        1 hr 33 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
 ```
 
 <!--END_SECTION:waka-->
