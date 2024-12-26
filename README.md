@@ -30,11 +30,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 45 mins
+Total Time: 2 hrs 8 mins
 
-JavaScript    1 hr 42 mins    ███████████████▓░░░░░░░░░   62.21 %
-Vue.js        59 mins         █████████░░░░░░░░░░░░░░░░   35.78 %
-Objective-J   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript    1 hr 32 mins    ██████████████████░░░░░░░   71.96 %
+Vue.js        35 mins         ███████░░░░░░░░░░░░░░░░░░   27.95 %
+Objective-J   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
