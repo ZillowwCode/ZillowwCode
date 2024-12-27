@@ -30,11 +30,9 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 8 mins
+Total Time: 0 secs
 
-JavaScript    1 hr 32 mins    ██████████████████░░░░░░░   71.96 %
-Vue.js        35 mins         ███████░░░░░░░░░░░░░░░░░░   27.95 %
-Objective-J   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
