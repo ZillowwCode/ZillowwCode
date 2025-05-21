@@ -30,11 +30,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 19 mins
+Total Time: 6 hrs 26 mins
 
-SCSS         5 hrs 46 mins   ████████████████░░░░░░░░░   63.49 %
-Twig         1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
-Other        46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+SCSS         3 hrs 32 mins   ████████████░░░░░░░░░░░░░   47.35 %
+Other        1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
 ```
 
 <!--END_SECTION:waka-->
