@@ -30,12 +30,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 9 mins
+Total Time: 4 hrs 36 mins
 
-SCSS     2 hrs 43 mins   ████████████▒░░░░░░░░░░░░   48.72 %
-Vue.js   39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Twig     28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Other    25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+SCSS         2 hrs 11 mins   ███████████▒░░░░░░░░░░░░░   44.73 %
+PHP          23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Bash         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 ```
 
 <!--END_SECTION:waka-->
