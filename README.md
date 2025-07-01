@@ -30,11 +30,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 23 mins
+Total Time: 5 hrs 58 mins
 
-JavaScript   1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
-PHP          1 hr 17 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
-SCSS         1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+PHP          1 hr 55 mins    ███████▒░░░░░░░░░░░░░░░░░   29.56 %
+SCSS         46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+Other        31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
 ```
 
 <!--END_SECTION:waka-->
