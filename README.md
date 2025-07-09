@@ -30,11 +30,9 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 36 mins
+Total Time: 4 hrs 6 mins
 
-PHP          4 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   45.71 %
-Twig         1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Other        1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Other        1 hr 17 mins    ██████░░░░░░░░░░░░░░░░░░░   23.93 %
 ```
 
 <!--END_SECTION:waka-->
