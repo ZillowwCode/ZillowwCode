@@ -30,12 +30,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 52 mins
+Total Time: 6 hrs 42 mins
 
-PHP        2 hrs 24 mins   ███████████████▒░░░░░░░░░   61.33 %
-Markdown   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-CSV        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+PHP          2 hrs 55 mins   ██████████▒░░░░░░░░░░░░░░   40.82 %
+SCSS         1 hr 1 min      ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Other        26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
 ```
 
 <!--END_SECTION:waka-->
