@@ -30,9 +30,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 20 mins
 
-No activity tracked
+Bash       10 mins         ██████████▒░░░░░░░░░░░░░░   40.72 %
+Twig       5 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
+Other      5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.77 %
 ```
 
 <!--END_SECTION:waka-->
