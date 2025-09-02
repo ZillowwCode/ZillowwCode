@@ -30,9 +30,9 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 mins
+Total Time: 2 mins
 
-CSS    2 mins          ███████████▒░░░░░░░░░░░░░   44.68 %
+CSS   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
