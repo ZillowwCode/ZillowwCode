@@ -12,8 +12,6 @@
 </div>
 
 <p align="center">
-  <a href="https://www.raphaelvieira.ch">site</a>
-  ·
   <a href="https://www.linkedin.com/in/rapha%C3%ABl-branco-vieira">linkedin</a>
   ·
   <a href="https://www.drupal.org/u/zilloww">drupal</a>
