@@ -1,0 +1,47 @@
+name: boss fight
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/fight.yml
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/checkout@v5
+        with:
+          repository: okturan/github-blocks
+          ref: 02416c9c916b37898fd73f0c57a7ec7bea3f30ab
+          path: _blocks
+
+      - name: Render boss fight
+        env:
+          BLOCK: boss-fight
+          PROFILE_USER: ZillowwCode
+          LD_LEVEL: rotate
+          LD_SEED: daily
+          LD_THEMES: dark,light
+          LD_TITLE: zilloww · BOSS FIGHT
+          LD_OUT: assets
+        run: node _blocks/action/generate.mjs
+
+      - name: Commit if the battle changed
+        run: |
+          rm -rf _blocks
+          git add assets/boss-fight.svg assets/boss-fight-light.svg
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh boss fight"
+          git push
